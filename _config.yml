@@ -1,0 +1,9 @@
+---
+name : faversham.pub
+
+links:
+  Home: /
+  Pubs: /pubs.html
+
+pubs:
+  "The Limes": /pubs/limes.html
