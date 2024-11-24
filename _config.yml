@@ -1,9 +1,11 @@
----
-name : faversham.pub
+title: faversham.pub
+description: >-
+  Exploring the pubs of Faversham
 
-links:
-  Home: /
-  Pubs: /pubs.html
+url: "https://faversham.pub"
 
-pubs:
-  "The Limes": /pubs/limes.html
+github_username:  radams15
+
+theme: minima
+plugins:
+  - jekyll-feed
