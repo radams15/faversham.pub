@@ -3,7 +3,7 @@ layout: pub
 title:  "The Albion Taverna"
 author: "Rhys"
 date:   2024-12-15
-categories: pub, faversham
+categories: ["pub", "faversham"]
 pub:
     name:  "The Albion Taverna"
     owner: "Shepherd Neame"
