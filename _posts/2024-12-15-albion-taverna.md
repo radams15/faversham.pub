@@ -17,7 +17,7 @@ pub:
 ![Outside View](/assets/images/albion_taverna_2.small.jpg)
 
 The Albion Taverna is a pub which has a promising name - literally meaning
-the tavern of britain. It is one of the further pubs from Faversham high street,
+the tavern of Britain. It is one of the further pubs from Faversham high street,
 but not too much of a trek.
 
 We visited around 2:30pm, and since it's winter the sun was already starting to
