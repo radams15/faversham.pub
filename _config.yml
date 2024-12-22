@@ -11,6 +11,9 @@ theme: jekyll-theme-yat
 
 translate_langs: []
 
+google_analytics: "G-6J2PBDGVBP"
+enableDNT: "false"
+
 defaults:
   home:
     heading: "Faversham.pub"
