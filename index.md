@@ -6,3 +6,5 @@ layout: home
 ---
 
 Welcome to faversham.pub, reviewing Faversham one pub at a time.
+
+Here are our recent pub reviews, we hope that you enjoy!

@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+ integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+ crossorigin=""/>
+
+
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
@@ -16,7 +21,7 @@ layout: default
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
     </p>
-      <table>
+      <table class="pub-table">
           <tr>
               <th>Name</th>
               <th>Owner</th>
@@ -32,6 +37,8 @@ layout: default
               <td><a href="https://www.google.com/maps/@?api=1&map_action=map&zoom=20&center={{ page.pub.location }}&zoom=12&basemap=terrain">Google Maps</a></td>
           </tr>
       </table>
+
+      <div id="pub-map"></div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -40,3 +47,21 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+ integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+ crossorigin=""></script>
+
+{% if page.pub.location %}
+<script>
+var map = L.map('pub-map').setView([{{ page.pub.location }}], 20);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([{{ page.pub.location }}]).addTo(map)
+    .bindPopup('{{ page.pub.name }}')
+    .openPopup();
+</script>
+{% endif %}
