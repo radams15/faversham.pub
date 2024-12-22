@@ -5,6 +5,7 @@ on:
     types: [opened, synchronize, reopened, closed]
     branches:
       - master
+      - '!gh-pages'
 
 jobs:
   # This job name kept short because it's used in the preview URL
