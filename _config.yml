@@ -8,7 +8,14 @@ github_username:  radams15
 
 
 theme: jekyll-theme-yat
-# remote_theme: abhinavs/moonwalk
+
+translate_langs: []
+
+defaults:
+  home:
+    heading: "Faversham.pub"
+    subheading: "Exploring faversham, one pub at a time"
+    banner: "/assets/images/banner.small.jpg"
 
 plugins:
   - jekyll-feed
