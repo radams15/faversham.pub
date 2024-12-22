@@ -17,6 +17,9 @@ defaults:
     subheading: "Exploring faversham, one pub at a time"
     banner: "/assets/images/banner.small.jpg"
 
+header_pages:
+  - about.md
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
