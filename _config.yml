@@ -7,7 +7,7 @@ url: "https://faversham.pub"
 github_username:  radams15
 
 
-theme: minima
+theme: jekyll-theme-yat
 # remote_theme: abhinavs/moonwalk
 
 plugins:
