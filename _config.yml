@@ -8,7 +8,6 @@ url: "https://faversham.pub"
 
 github_username:  radams15
 
-
 theme: jekyll-theme-yat
 
 translate_langs: []
@@ -19,7 +18,7 @@ enableDNT: "false"
 defaults:
   home:
     heading: "Faversham Pub Reviews"
-    subheading: "Exploring Faversham, one pub at a time"
+    subheading: "Finding the best pubs in Faversham"
     banner: "/assets/images/banner.small.jpg"
 
 header_pages:
