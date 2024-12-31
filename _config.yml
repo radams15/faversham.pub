@@ -1,4 +1,5 @@
 title: Faversham Pub Reviews
+tagline: Finding the best pubs in Faversham
 description: >-
  Discover Faversham’s finest pubs with detailed reviews and traditional insights.
  Your definitive guide to exploring the best pubs in Faversham.
@@ -18,7 +19,7 @@ enableDNT: "false"
 defaults:
   home:
     heading: "Faversham Pub Reviews"
-    subheading: "Exploring faversham, one pub at a time"
+    subheading: "Exploring Faversham, one pub at a time"
     banner: "/assets/images/banner.small.jpg"
 
 header_pages:
