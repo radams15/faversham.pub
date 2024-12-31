@@ -1,6 +1,7 @@
-title: faversham.pub
+title: Faversham Pub Reviews
 description: >-
-  Exploring the pubs of Faversham
+ Discover Faversham’s finest pubs with detailed reviews and traditional insights.
+ Your definitive guide to exploring the best pubs in Faversham.
 
 url: "https://faversham.pub"
 
@@ -16,7 +17,7 @@ enableDNT: "false"
 
 defaults:
   home:
-    heading: "Faversham.pub"
+    heading: "Faversham Pub Reviews"
     subheading: "Exploring faversham, one pub at a time"
     banner: "/assets/images/banner.small.jpg"
 
