@@ -4,6 +4,7 @@ title:  "The Albion Taverna"
 author: "Rhys"
 date:   2024-12-15
 categories: ["pub", "faversham"]
+banner: /assets/images/albion_taverna_2.small.jpg
 pub:
     name:  "The Albion Taverna"
     owner: "Shepherd Neame"
