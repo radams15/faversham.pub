@@ -1,6 +1,8 @@
 ---
 layout: pub
 title:  "The Albion Taverna"
+description: >
+    The Albion Taverna is an interesting pub located on the Standard Quay in Faversham.
 author: "Rhys"
 date:   2024-12-15
 categories: ["pub", "faversham"]
