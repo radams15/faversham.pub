@@ -25,12 +25,6 @@ translate_langs: []
 google_analytics: "G-6J2PBDGVBP"
 enableDNT: "false"
 
-defaults:
-  home:
-    heading: "Faversham Pub Reviews"
-    subheading: "Finding the best pubs in Faversham"
-    banner: "/assets/images/banner.small.jpg"
-
 header_pages:
   - about.md
 
