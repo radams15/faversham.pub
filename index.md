@@ -5,6 +5,8 @@ subheading: "Exploring the best pubs in Faversham"
 banner: "/assets/images/banner.small.jpg"
 ---
 
-Welcome to faversham.pub, reviewing Faversham one pub at a time.
+Welcome to our humble blog, a tribute to the fine public houses of Faversham.
 
-Here are our recent pub reviews, we hope that you enjoy!
+This historic market town, nestled in the heart of Kent is home to a splendid array of traditional inns and taverns, steeped in history and charm. With its brewing heritage and timeless hospitality, Faversham’s pubs are a cornerstone of Kentish life.
+
+Here, we aim to explore and review each pub, uncovering the best spots to enjoy a pint, and the unique characters they house. Join us as we explore the best of Faversham’s pubs!
