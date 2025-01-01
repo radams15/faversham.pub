@@ -2,7 +2,7 @@ title: Faversham Pub Reviews
 tagline: Finding the best pubs in Faversham
 description: >-
  Discover Faversham’s finest pubs with detailed reviews and traditional insights.
- Your definitive guide to exploring the best pubs in Faversham.
+ Your definitive guide to exploring the best Faversham pubs.
 
 url: "https://faversham.pub"
 
@@ -27,3 +27,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
