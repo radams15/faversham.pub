@@ -13,8 +13,8 @@ github_username:  radams15
 locale: en_GB
 lang: en
 
-favicon: assets/favicon.ico
-logo: assets/favicon.ico
+favicon: /assets/favicon.ico
+logo: /assets/favicon.ico
 
 copyright: "2024-{currentYear} {author}"
 
