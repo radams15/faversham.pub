@@ -4,9 +4,19 @@ description: >-
  Discover Faversham’s finest pubs with detailed reviews and traditional insights.
  Your definitive guide to exploring the best Faversham pubs.
 
+
 url: "https://faversham.pub"
 
+author: "Rhys Adams"
 github_username:  radams15
+
+locale: en_GB
+lang: en
+
+favicon: assets/favicon.ico
+logo: assets/favicon.ico
+
+copyright: "2024-{currentYear} {author}"
 
 theme: jekyll-theme-yat
 
