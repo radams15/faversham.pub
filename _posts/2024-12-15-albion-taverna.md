@@ -76,7 +76,7 @@ All it would take is a short walk to the local antique shop and £200, this is
 not a job for Liberty or Harrods. I would recommend they expand their forward
 exterior seating; the majority is behind the pub giving drinkers a lovely view
 of the car park, useful for a town such as Sandwich or Headcorn, respectively
-filled with groups of tenebrous youths or ridden with roving criminals eyeing any
+filled with groups of tenebrous youths or ridden with wandering criminals eyeing any
 catalytic converters, but luckily not for Faversham. Yet. I have mixed feelings
 on the exterior architecture, it reminds me of a car park in Whitstable. I
 don’t like that car park but for some it may feel appropriate for the Standard
@@ -87,6 +87,7 @@ and childlike. This must change.
 ![Outside view of the river Fav](/assets/images/albion_taverna_5.small.jpg)
 
 ## Drinks
+
 It has to be said the drink selection is rather impressive for a Neame pub, I
 was delighted by the cocktail offerings, an unusual sight in Faversham. The
 cocktails were well made, the staff were knowledgeable, but I dare not ask for
