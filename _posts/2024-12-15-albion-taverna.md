@@ -100,8 +100,8 @@ position itself within my arteries and create a blockage. My thoughts were
 surprisingly of unmelancholy, for I found solace in yet again proving the
 existence of the Sediment to my ever-denying friend. I can only hope he lives a
 longer life as a result, and if the cost of that is 50ml of ale, then so be it.
-I will not comment on the ciders as I am personally not interested interested
-in them. Prices were Faveraverage.
+I will not comment on the ciders as I am personally not interested
+in the private activities associated with it's drinkers. Prices were Faveraverage.
 
 ## Food
 
