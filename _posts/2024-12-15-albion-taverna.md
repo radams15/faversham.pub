@@ -55,3 +55,7 @@ Overall, the Albion Taverna is a fairly standard Shepherd Neame pub - slightly
 expensive drinks, not a massive amount of character, but with some brilliant
 drinks available, mostly brewed locally. The worst part however of the visit:
 when returning our glasses and thanking the barman, I was ignored!
+
+<!--more-->
+
+Jack's article

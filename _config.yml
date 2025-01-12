@@ -20,6 +20,8 @@ copyright: "2024-{currentYear} {author}"
 
 theme: jekyll-theme-yat
 
+excerpt_separator: "<!--more-->"
+
 translate_langs: []
 
 google_analytics: "G-6J2PBDGVBP"
