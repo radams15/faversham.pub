@@ -1,6 +1,11 @@
 .pub-table {
   width: 100%;
   display: revert;
+  white-space: pre-wrap;
+}
+
+.pub-table td, .pub-table th {
+  font-size: 0.8em;
 }
 
 #pub-map {
