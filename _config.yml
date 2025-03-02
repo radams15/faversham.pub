@@ -14,6 +14,7 @@ locale: en_GB
 lang: en
 
 favicon: /assets/favicon.ico
+favicon_alt: "A Tankard"
 logo: /assets/favicon.ico
 
 copyright: "2024-{currentYear} {author}"
