@@ -17,6 +17,8 @@ favicon: /assets/favicon.ico
 favicon_alt: "A Tankard"
 logo: /assets/favicon.ico
 
+permalink: /blog/:title:output_ext
+
 copyright: "2024-{currentYear} {author}"
 
 theme: jekyll-theme-yat
