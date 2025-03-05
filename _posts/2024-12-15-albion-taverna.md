@@ -17,7 +17,7 @@ pub:
     rating: 6
 ---
 
-## The Pub
+### The Pub
 
 ![Outside View](/assets/images/albion_taverna_2.small.jpg)
 
@@ -35,7 +35,7 @@ The atmosphere in the pub is more restaurant-like than pub-like, which isn't to
 say it's bad, however it's not quite the experience one hopes for when going
 to a pub.
 
-## Drinks
+### Drinks
 
 I had a Kentish Pip craftsman cider - it was decent, but did cost me almost £6,
 a bit steep for today.
@@ -45,7 +45,7 @@ much sediment, as you can see below. His pint set him back a more standard £5.
 
 ![Sediment](/assets/images/albion_taverna_3.small.jpg)
 
-## Food
+### Food
 
 We didn't try the food in the Taverna, since the cheapest main available was £17.
 This put us off ordering, although it did smell delicious! They serve mainly
@@ -60,7 +60,7 @@ when returning our glasses and thanking the barman, I was ignored!
 
 <!--more-->
 
-## Location and Interior
+### Location and Interior
 
 ![View of the pub exterior](/assets/images/albion_taverna_4.small.jpg)
 
@@ -88,7 +88,7 @@ and childlike. This must change.
 
 ![Outside view of the river Fav](/assets/images/albion_taverna_5.small.jpg)
 
-## Drinks
+### Drinks
 
 It has to be said the drink selection is rather impressive for a Neame pub, I
 was delighted by the cocktail offerings, an unusual sight in Faversham. The
@@ -105,7 +105,7 @@ longer life as a result, and if the cost of that is 50ml of ale, then so be it.
 I will not comment on the ciders as I am personally not interested
 in the private activities associated with it's drinkers. Prices were Faveraverage.
 
-## Food
+### Food
 
 Being on a budget, I did not choose to consume at this pub as it was rather
 expensive. This sentiment was only furthered by the choice of cuisine –
@@ -117,7 +117,7 @@ video. Mexicans have substantially lower productivity than most, I suspect
 sales of dishes at this “Taverna” can be correlated with the productivity of
 Faversham. Overall, the food was overpriced and immoral. Do not eat here.
 
-## Summary
+### Summary
 
 Ah the Albion Taverna, microcosmic of our society. A pub in a good location and
 access to many drinks, yet lacking the defining perennial. The owners thinking
