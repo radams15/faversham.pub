@@ -2,7 +2,7 @@
 layout: pub
 title:  "The Albion Taverna"
 description: >
-    The Albion Taverna is an interesting pub located on the Standard Quay in Faversham.
+    The Albion Taverna is an interesting Shepherd Neame pub located on the Standard Quay in Faversham. Read for insights into drinks, views and controversy
 author: "Rhys"
 date:   2024-12-15
 categories: ["pub", "faversham"]
