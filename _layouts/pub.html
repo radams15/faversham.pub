@@ -42,9 +42,15 @@ sidebar: []
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.js"
  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
  crossorigin=""></script>
+<link
+  rel="preload"
+  href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.css"
+  as="style"
+  onload="this.onload=null;this.rel='stylesheet'"
+  />
 
 {% if page.pub.location %}
 <script>
