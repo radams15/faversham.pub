@@ -7,7 +7,7 @@ author: "Rhys"
 date:   2024-12-15
 categories: ["pub", "faversham"]
 banner:
-  image: /assets/images/albion_taverna_2.small.jpg
+  image: /assets/images/albion_taverna_2.small.webp
   alt: A picture of the front of the Albion Taverna
 pub:
     name:  "The Albion Taverna"
@@ -19,7 +19,7 @@ pub:
 
 ### The Pub
 
-![Outside View](/assets/images/albion_taverna_2.small.jpg)
+![Outside View](/assets/images/albion_taverna_2.small.webp)
 
 The Albion Taverna is a pub which has a promising name - literally meaning
 the tavern of Britain. It is one of the further pubs from Faversham high street,
@@ -29,7 +29,7 @@ We visited around 2:30pm, and since it's winter the sun was already starting to
 set. We still decided to sit down outside in order to see the Standard Quay, even
 though at this time of year it looks a bit of a mess...
 
-![The View](/assets/images/albion_taverna_1.small.jpg)
+![The View](/assets/images/albion_taverna_1.small.webp)
 
 The atmosphere in the pub is more restaurant-like than pub-like, which isn't to
 say it's bad, however it's not quite the experience one hopes for when going
@@ -43,7 +43,7 @@ a bit steep for today.
 My friend had a Christmas Ale - he said it was very good, although had far too
 much sediment, as you can see below. His pint set him back a more standard £5.
 
-![Sediment](/assets/images/albion_taverna_3.small.jpg)
+![Sediment](/assets/images/albion_taverna_3.small.webp)
 
 ### Food
 
@@ -62,7 +62,7 @@ when returning our glasses and thanking the barman, I was ignored!
 
 ### Location and Interior
 
-![View of the pub exterior](/assets/images/albion_taverna_4.small.jpg)
+![View of the pub exterior](/assets/images/albion_taverna_4.small.webp)
 
 The Albion Taverna, a strong name that secretes patriotic fervor. Will it do
 its name justice? Or like a political party, be little more than a soulless
@@ -86,7 +86,7 @@ Quay. I would perhaps change the colour to avoid it being mistaken for
 corrugated iron, reminiscent of the Third World. The seats are uncomfortable
 and childlike. This must change.
 
-![Outside view of the river Fav](/assets/images/albion_taverna_5.small.jpg)
+![Outside view of the river Fav](/assets/images/albion_taverna_5.small.webp)
 
 ### Drinks
 
