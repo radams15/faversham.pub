@@ -2,7 +2,9 @@
 layout: home
 heading: "Faversham Pub Reviews"
 subheading: "Exploring the best pubs in Faversham"
-banner: "/assets/images/banner.small.jpg"
+banner:
+  image: "/assets/images/banner.small.jpg"
+  alt: A picture of West Street, Faversham
 ---
 
 Welcome to our humble blog, a tribute to the fine public houses of Faversham.

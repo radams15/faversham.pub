@@ -6,7 +6,9 @@ description: >
 author: "Rhys"
 date:   2024-12-15
 categories: ["pub", "faversham"]
-banner: /assets/images/albion_taverna_2.small.jpg
+banner:
+  image: /assets/images/albion_taverna_2.small.jpg
+  alt: A picture of the front of the Albion Taverna
 pub:
     name:  "The Albion Taverna"
     owner: "Shepherd Neame"
