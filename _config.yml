@@ -20,7 +20,7 @@ logo: /assets/favicon.ico
 banner:
   opacity: 40%
 
-permalink: /blog/:title:output_ext
+permalink: /blog/:title
 
 copyright: "2024-{currentYear} {author}"
 
