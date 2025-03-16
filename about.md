@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /about/
+permalink: /about
 description: "Learn about our blog dedicated to Faversham’s historic pubs and Shepherd Neame’s brewing legacy, as we explore, review, and celebrate the town’s finest inns."
 ---
 
