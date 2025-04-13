@@ -7,7 +7,7 @@ banner:
   image: /assets/images/matthew_1.webp
   alt: Matthew, a very strange person
   opacity: 40%
-  
+sitemap: false  
 ---
 
 # A page about Matthew
