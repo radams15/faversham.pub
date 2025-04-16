@@ -6,6 +6,7 @@ description: Discover Faversham’s finest pubs with detailed reviews and tradit
 banner:
   image: "/assets/images/banner.small.webp"
   alt: A picture of West Street, Faversham
+sidebar: []
 ---
 
 Welcome to our humble blog, a tribute to the fine public houses of Faversham.
