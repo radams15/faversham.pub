@@ -22,7 +22,7 @@ pub:
 
 Ah the Old Wine Vaults, one of the most... interesting pubs in Faversham. In the daytime it is almost empty, while at nights it is a very rowdy place indeed.
 
-We arrived at the wine vaults around midday, sitting outside. We believed we were only the second group of clients there - but that soon changed after we realised that the other people there were either friends of the landlord or contractors on a break. After 15 minutes or so at our table we noticed the landlord had come to speak to the others about something, before all of them headed up a ladder into the loft area of the pub and stayed there for the remaining 30 minutes of our stay. This was a very peculiar sight.
+We arrived at the Wine Vaults around midday, sitting outside. We believed we were only the second group of clients there - but that soon changed after we realised that the other people there were either friends of the landlord or contractors on a break. After 15 minutes or so at our table we noticed the landlord had come to speak to the others about something, before all of them headed up a ladder into the loft area of the pub and stayed there for the remaining 30 minutes of our stay. This was a very peculiar sight.
 
 ![A trip up the ladded](/assets/images/wine_vaults_2.webp)
 
@@ -30,9 +30,9 @@ The garden area of the Wine Vaults where we were seated definitely had character
 
 ![The state of the tables](/assets/images/wine_vaults_1.webp)
 
-At one point we were greeted by a rat running past us upon the wall, but he didn't stop for a chat, probably aware that anyone who frequents the wine vaults would probably bite its head off without a second though.
+At one point we were greeted by a rat running past us upon the wall, but he didn't stop for a chat, probably aware that anyone who frequents the Wine Vaults would probably bite its head off without a second thought.
 
-Like any good pub, the wine vaults does not serve food, only liquid refreshments. Talking of liquids, one of the only positives for the pub is the price of a pint. It cost just under 2 pounds for a Strongbow - which in this day and age is almost unheard of, even in Wetherspoons.
+Like any good pub, the Wine Vaults does not serve food, only liquid refreshments. Talking of liquids, one of the only positives for the pub is the price of a pint. It cost just under 2 pounds for a Strongbow - which in this day and age is almost unheard of, even in Wetherspoons.
 
 Later that day, we returned for an evening of karaoke - a night where one can see who people really are. The good people of Faversham seemed to be having a good evening in the pub, obviously too drunk to care about the shortcomings of the pub. The music choice was acceptable but I would rate the karaoke singers a 4/10 as they were all quite out of tune. The pints were still the same price as before, and there was no cost to take up the microphone.
 
