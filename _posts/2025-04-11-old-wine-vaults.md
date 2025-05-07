@@ -3,7 +3,8 @@ layout: pub
 disabled: 1
 title:  "The Old Wine Vaults"
 description: >
-    The old wine vaults
+    The old wine vaults is a Craft Union pub located on Preston Street in Faversham. It
+    certainly has character...
 author: "Rhys"
 date:   2025-04-11
 categories: ["pub", "faversham"]
