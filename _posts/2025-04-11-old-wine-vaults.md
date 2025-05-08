@@ -9,8 +9,8 @@ author: "Rhys"
 date:   2025-04-11
 categories: ["pub", "faversham"]
 banner:
-  image: /assets/images/limes_4.small.webp
-  alt: A picture of the Limes' pub sign.
+  image: /assets/images/wine_vaults_header.webp
+  alt: A picture of the Vine Vault's pub sign.
 pub:
     name:  "The Old Wine Vaults"
     owner: "Craft Union"
