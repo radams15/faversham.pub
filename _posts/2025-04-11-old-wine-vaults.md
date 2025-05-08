@@ -46,7 +46,7 @@ Overall, I'd rate this pub a 5/10, as compared to other Faverpubs it lacks chara
 
 Central and alluring, the Old Wine Vaults beckons the Faverman away from his family, and into a pit of discombobulation. But what sort of patrons does this attract, are they the Faverfinest? It’s certainly a pub for the people, the vox populi of the council estates. Having the unique ability to make the local Wetherspoons seem gentrified, the Vaults certainly has a character. Like a fish in a pond, the pub disrupts the calmy stagnant water that is Faversham, out of place, unpredictable, and violent. If one is bold enough to enter, they reach a long corridor leading to the bar, with small rooms on the sides filled with usually empty chairs. These areas have been long abandoned, for all congregate in the main room leaving it as buzzing as Selling late into the evening. The room is filled with an evil device, a great disruptor of the true pub, the television. Perhaps this is why the mental growth of its patrons have been so clearly stunted, the volume of the device silences any comprehensible thought, yet alone conversation. On its merits, the décor is of the old sense, I appreciate the exposed woodwork and felt like the homosexual in boytown. On a dichotomic sense, this is strangely the only Faverpub I have visited that has a dress code. Albeit not strict, it makes one wonder the reasons behind its implementation, probably something racial.
 
-![The dress code is seldom enforced](/assets/images/wine_vaults_jack_1)
+![The dress code is seldom enforced](/assets/images/wine_vaults_jack_1.webp)
 
 ### Drinks
 
@@ -61,5 +61,5 @@ Now onto the profundity. The Vaults does not dabble in the culinary business in 
 Much here to conclude on. This is a thoroughly dodgy pub which I would not revisit if it were not for the prices. Perhaps in this epoch, if we are to oppose the expansion of the soulless Wetherspoons, this is the alternative. I would advise going for the experience, as one would to the zoo, and staying for a short pint. Perhaps you can drink enough with your money that the surroundings don’t matter, or even better, you ride them by singing karaoke. This is a 4/10, a sad look into what may be the alternative of the Wetherspoons opposition, and a consequence of Western Decline. Please see depictions of the patrons.
 
 
-![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_2)
-![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_3)
+![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_2.webp)
+![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_3.webp)
