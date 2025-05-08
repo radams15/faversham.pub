@@ -16,7 +16,7 @@ pub:
     owner: "Craft Union"
     location: 51.3143028, 0.8907472
     can_neame: "no"
-    rating: 5
+    rating: 4.5
 ---
 
 
@@ -62,4 +62,5 @@ Much here to conclude on. This is a thoroughly dodgy pub which I would not revis
 
 
 ![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_2.webp)
+
 ![A pub patron (artist's impression)](/assets/images/wine_vaults_jack_3.webp)
