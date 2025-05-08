@@ -16,7 +16,7 @@ pub:
     owner: "Craft Union"
     location: 51.3143028, 0.8907472
     can_neame: "no"
-    rating: 6
+    rating: 5
 ---
 
 
@@ -37,7 +37,7 @@ Like any good pub, the Wine Vaults does not serve food, only liquid refreshments
 Later that day, we returned for an evening of karaoke - a night where one can see who people really are. The good people of Faversham seemed to be having a good evening in the pub, obviously too drunk to care about the shortcomings of the pub. The music choice was acceptable but I would rate the karaoke singers a 4/10 as they were all quite out of tune. The pints were still the same price as before, and there was no cost to take up the microphone.
 
 
-Overall, I'd rate this pub a 6/10, as compared to other Faverpubs it lacks character, feels slightly unwelcoming with its borderline feral clientele, and is quite dirty inside and out. But the pints being so cheap means that this is most likely not the last time we visit the Old Wine Vaults.
+Overall, I'd rate this pub a 5/10, as compared to other Faverpubs it lacks character, feels slightly unwelcoming with its borderline feral clientele, and is quite dirty inside and out. But the pints being so cheap means that this is most likely not the last time we visit the Old Wine Vaults.
 
 
 <!--more-->
