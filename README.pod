@@ -1,0 +1,5 @@
+=head1 faversham.pub
+
+=head2 Blog about pubs in Faversham
+
+Written using the dapper framework
